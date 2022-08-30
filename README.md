@@ -26,7 +26,7 @@
   - [x264-Configuration](#x264-configuration)
   - [Compression test and quality tuning](#compression-test-and-quality-tuning)
   - [Start encoding](#start-encoding)
-  - [About this tutorial](#about-this-tutorial)
+- [About this tutorial](#about-this-tutorial)
 
 # Encoding with StaxRip
 
@@ -452,7 +452,7 @@ It may take several clicks, because first we click **Next** at the bottom right 
 
 This is where the final click on the **Start** button happens. After that, we can sit back and put on coffee.
 
-## About this tutorial
+# About this tutorial
 
 - Authored by Brother John for [encodingwissen.de](https://encodingwissen.de).
 
